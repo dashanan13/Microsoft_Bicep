@@ -20,4 +20,3 @@ az deployment group create \
   --template-file main.bicep \
   --resource-group storage-resource-group
 
-68aa0317-df02-493d-b9c7-0fa97a84fde6
